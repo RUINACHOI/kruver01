@@ -1,0 +1,126 @@
+Part 5 MachineryInstallations
+Chapter 6 AuxiliariesandPipingArrangement
+Section 2 Air Pipes, Overflow Pipes and Sounding Devices
+[Pt.5 Ch.6 201]
+201. Air pipes
+[Pt.5 Ch.6 201. 1]
+1. General
+(1) Air pipes are to be fitted to all tanks, cofferdams, tunnels and void space of the enclosed structure.
+(2) Tanks are to be provided with two or more air pipes as far apart as possible. Where the tanks are less than 7m both in length and in width or having inclined top plates, one air pipe may be fitted at the highest part of the tanks.
+(3) Where the tank top is of unusual or irregular profile, special consideration is to be given to the number and position of the air pipes.
+(4) Air pipes are to be arranged to be self-draining under normal conditions of trim and to be clearly marked at the upper end.
+(5) Air pipes for fuel oil service, settling and lubrication oil tanks are to be such that in the event of a broken air pipe this is not directly to lead to the risk of ingress of seawater splashes or rain water.
+[Guidance]
+(1) In application to 201. 1 (1) of the Rules, for a normally inaccessible small void compartment such as an echo sounder recess, air pipes may be omitted under the approval of the Society. For such arrangements, a warning notice is to be located in a prominent position specifying the precautions for ventilation to be taken prior opening the manhole and entering the small void compartment.
+[Pt.5 Ch.6 201. 2]
+2. Termination of air pipe outlets
+Air pipe to double bottom tank, deep tanks, cofferdams or tanks which can be run up from the sea are to be led to above the bulkhead deck. The position of open ends of air pipes are to be in accordance with the following requirements depending on the kinds of tanks. (2018) 
+(1) Air pipes to fuel oil and cargo oil tanks, cofferdams adjacent to their tanks and all tanks which can be pumped up are to be led to the open area.
+(2) The open ends of air pipes to fuel oil and cargo oil tanks are to be situated where no danger will be incurred from issuing oil or vapour when the tank is being filled.
+(3) Air pipes from lubricating oil tanks may terminate in the machinery space, provided that the open ends are so situated that issuing oil or gas cannot come into contact with electrical equipment or heated surfaces. However, air pipes from the heated lubricating oil tanks are to be led to the open area.
+(4) Air pipes from fresh water tanks may terminate in the machinery space.
+[Guidance]
+2. Termination of air pipe outlets (2018) 
+(1) In application to 201. 2 (1) of the Rules, it may be in accordance with the following;
+ (A) Air pipes to cofferdams adjacent to fuel oil and cargo oil tanks having oils exceeding a flash point 60℃ and all tanks which can be pumped up may be led to the enclosed cargo space under the approval of the Society with submission of documents demonstrating SOLAS Reg.II-1/17.3, ventilation system and drainage system etc..
+[Pt.5 Ch.6 201. 3]
+3. Protection of air pipe outlets
+(1) All openings of air pipes extending above weather decks are to be provided with an automatic type closing devices. All automatic type closing devices are to be type approved by the Society.
+(2) The open ends of air pipes to fuel oil and cargo oil tanks are to be furnished with the flame-screens which can be readily removed for cleaning or renewal and deemed appropriate by the Society. The clear area through the mesh of the flame-screens is not to be less than the required sectional area of the air pipe.
+[Guidance]
+3. Protection of air pipe outlets
+(1) In application to 201. 3 (2) of the Rules, the wording "the flame-screens which deemed appropriate by the Society" is to comply with the following.
+ (A) to be made of corrosion resisting material
+ (B) to comprise two fitted screens of at least 20×20 mesh spaced 25.4±12.7 apart or single fitted screen of at least 30×30 mesh, or to have a performance equivalent thereto.
+[Pt.5 Ch.6 201. 4]
+4. Size of air pipes
+(1) The aggregated sectional area of air pipes to tanks which can be pumped up is not to be less than 1.25 times the aggregated sectional area of filling pipes. Where the tank is provided with an overflow pipe, the aggregated sectional area of air pipes is to be accordance with the requirements which the Society considers appropriate.
+(2) The internal diameters of air pipes to cofferdams or tanks which form part of ship's structure are not to be less than 50
+[Guidance]
+4. Size of air pipes
+In application to 201. 4 (1) of the Rules, the air pipes for the tank is provided with an overflow pipe are to comply with the following.
+(1) Where the aggregated sectional area of overflow pipes in the tank, which are not fitted with valves impeding air flow, is greater than 1.25 times the effective area of the filling pipes, the air pipes may be omitted. In this time, the sectional area of air pipes in the overflow tank is not less than the aggregated sectional area of overflow pipes.
+(2) For the tanks which are provided with common overflow pipes, the air pipes in each tank may be omitted where the sectional area of overflow pipes from each tank is greater than 1.25 times the effective area of filling pipes from each tank, and the sectional area of common overflow pipes and the sectional area of air pipes of the overflow tank are greater than 1.25 times the aggregated sectional area of the filling pipe of each tank which filled simultaneously. However, the sectional area of common overflow pipes and the sectional area of air pipes of the overflow tank are need not to exceed 1.25 times the sectional area of common filling pipes.
+(3) In application to (1) and (2) above, where overflows from the tanks such as fuel oil settling tank, fuel oil service tank, etc. are led to other tank with air pipes, suitable means are to be provided so that the air in the highest portion of these tanks is vented to other tank with air pipes. (refer to Fig 5.6.4 of the Guidance).
+[Pt.5 Ch.6 201. 5]
+5. Height of air pipes 
+Where air pipes extend above the freeboard and superstructure decks, the exposed parts of the pipes are to be of substantial construction; the height from the upper surface of the deck to the point where water may have access below is to be at least as given in the following table: Where these height may interfere with the working of the ship, a lower height may be accepted, provided that the Society is satisfied that the closing arrangement and other circumstances justify the lower height.
+ - On the freeboard deck: 760 mm
+ - On the superstructure deck: 450 mm
+[Guidance]
+5. Height of air pipes
+(1) In application to 201. 5 of the Rules, the height of air pipes above deck is to be measured as shown in Fig 5.6.5 of the Guidance.
+(2) In application to 201.5 of the Rules, height of air pipes are to be as below. (2017)
+ (A) 760 mm on the freeboard deck or other exposed decks lower than one standard height of superstructure above the freeboard deck; and
+ (B) 450 mm on other exposed decks lower than two standard heights of superstructure above freeboard deck. 
+ (C) Exposed decks is included top decks of superstructures, deckhouses, companionways and other similar deck structures.
+ (D) Where these height interfere with the working of the ships, such as ships not engaging on international voyages, tug boat, barge, etc., a lower height may be accepted, provided that the automatic closing device approved by the Society is fitted. In such cases, the minimum height may be reduced from 760mm on (A) to 450 and from 450mm on (B) to 300 .
+202. Overflow pipes
+[Pt.5 Ch.6 202]
+202. Overflow pipes
+[Pt.5 Ch.6 202. 1]
+1. General
+(1) Where tanks which can be pumped up come under either one of the following categories, overflow pipes of steel are to be fitted:
+ (A) Where the cross-sectional area of the air pipes does not comply with the requirements in 201. 4 (1).
+ (B) Where there is any opening below the open ends of air pipes fitted to tanks.
+ (C) Fuel oil settling tank and fuel oil service tank.
+(2) Overflow pipes are to be arranged to be readily visible and self-draining under normal conditions of trim and to be clearly marked at the upper end.
+[Guidance]
+1. In application to 202. 1 (1) (B) of the Rules, opening below the open ends of air pipes fitted to tanks means openings having permanent air gap such as a float sounding system. And such openings are to be situated above the highest point of the overflow piping.
+[Pt.5 Ch.6 202. 2]
+2. Termination of overflow pipes
+(1) In case of fuel oil and lubricating oil tanks, the overflow pipe is to be led to an overflow tank of adequate capacity or to a storage tank having a space reserved for overflow purposes.
+(2) A sight glass is to be provided in the overflow pipe at a readily visible position or, alternatively, an alarm device is to be provided to give warning either when the tanks are overflowing or when the oil reaches a predetermined level in the tanks.
+(3) Overflow pipes from tanks, other than fuel oil, cargo oil and lubricating oil tanks, are to be led to the open air or to suitable tanks where the overflows can be disposed of.
+[Guidance]
+2. In application to 202. 2 (2) of the Rules, In case that the fuel oil or lubricating oil circulated from the settling tank circulates to the settling tank through the overflow pipe of the service tank, the installation of the sight glass on the overflow pipe or the high level alarm device for the service tank may be omitted.
+203. Sounding devices
+[Pt.5 Ch.6 202. 3]
+3. Size of overflow pipes
+The total cross-sectional area of the overflow pipes is not to be less than 1.25 times the effective area of the filling pipes. In any case, the minimum internal diameter for overflow pipes is not to be less than 50mm
+[Pt.5 Ch.6 202. 4]
+4. Prevention of counter-flow of overflow lines
+(1) The overflow system is to be so arranged that water from the sea cannot enter through the overflow main line into tanks located in other watertight compartments in the event of any tank being damaged.
+(2) Where overflows from tanks which are used for the alternative carriage of oil, ballast water, general cargo, etc., are connected to an overflow system, arrangements are to be made to prevent the entering of liquid or vapour from other tanks into the tank carrying general cargo, or to prevent the entering of oil different quality or ballast water from other tanks into the tank carrying oil.
+(3) Overflow pipes discharging through the ship's sides are to extend above the load line and are to be provided with non-return valves fitted on the ship's sides. 
+Where the overflow pipes do not extend above the freeboard deck, the opening at the shell is to be protected against sea water ingress in accordance with the same provisions as that for overboard gravity drain from watertight spaces described in 302. 4. In this connection, the vertical distance of the 'inboard end' from the summer load water line may be taken as the height from the summer load water line to the level that the sea water has to rise to find its way inboard through the overboard pipe.
+Where, in accordance with 302. 4, a non-return valve with positive means of closing is required, means is to be provided to prevent unauthorized operation of this valve. This may be a notice posted at the valve operator warning that it may be shut by authorized personnel only.
+[Pt.5 Ch.6 203]
+203. Sounding devices
+[Pt.5 Ch.6 203. 1]
+1. General
+(1) All tanks, cofferdams and other compartments which are not at all times readily accessible are to be provided with sounding pipes.
+(2) In cargo holds, sounding pipes are to be fitted to the bilges on each side and as near the suction pipe rose boxes as practicable.
+(3) All sounding pipes are to be clearly marked at the upper end.
+(4) In addition to this requirements, the relevant requirements in Pt 8, Ch 2, Sec 1 are to be complied with.
+[Guidance]
+1. In application to 203. 1 (1) of the Rules, sounding devices may be complied with following.
+(1) For a normally inaccessible small void compartment such as an echo sounder recess, sounding pipes may be omitted under the approval of the Society. For such arrangements, means for sampling such as plugs or cocks are to be provided to the manhole and a warning notice is to be located in a prominent position specifying the precautions for checking flooding of the compartment to be taken prior opening the manhole.
+(2) Special shaped voids, etc. which installation of sounding pipes or other sounding devices is impracticable as structural reason may be provided with a bilge alarm instead of sounding pipe under the approval of the Society.
+[Pt.5 Ch.6 203. 2]
+2. Termination of sounding pipes
+(1) Sounding pipes are to be led to positions above the bulkhead deck which are at all times readily accessible and are to be provided with effective closing means at the upper end. 
+(2) In machinery spaces and shaft tunnels where it is not always practicable to extend the sounding pipes above the bulkhead deck, short sounding pipes extending to readily accessible positions above the platform may be fitted. In this case, the following closing means are to be fitted to the upper end of the pipes according to the kinds of tanks:
+ (A) Sounding pipes to fuel oil tank, lubricating oil tank and other flammable oil storage tank are to comply with relevant requirements in Pt 8, Ch 2, Sec 1.
+ (B) Sounding pipes to other tanks mentioned in (A) and cofferdams are to be fitted with sluice valves, cocks or screw caps attached to the pipes by chains.
+[Guidance]
+2. Termination of sounding pipes In application to 203. 2 (2) of the Rules, Sounding pipes to the tanks and cofferdams located in double bottom are to be fitted with self-closing blanking devices. (2019)
+[Pt.5 Ch.6 203. 3]
+3. Construction of sounding pipes
+(1) Sounding pipes are to be arranged as straight as practicable, and if curved, the curvature must be sufficiently easy to permit the ready passage of the sounding rod or chain.
+(2) Striking plates of adequate thickness and size are to be fitted under open ended sounding pipes. Where sounding pipes having closed ends are employed, the closing plugs are to be of substantial construction.
+(3) The inside diameter of sounding pipes is not to be less than 32mm. But the inside diameter of sounding pipes passing through a refrigerated chamber cooled down 0°C or below is not to be less than 65mm
+[Guidance]
+3. Construction of sounding pipes In application to 203. 3 of the Rules, construction of sounding pipes is to be complied with the following.
+(1) In case where elbow type sounding pipe is unavoidable to use, sufficient support is to be provided for the arm of the pipe. 
+(2) The standard thickness value of striking plate is approximately 10mm for ships having length less than 30m and 12mm for ships having length 30m or over. (refer to Fig 5.6.6 of the Guidance)
+[Pt.5 Ch.6 203. 4]
+4. Sounding devices other than sounding pipes
+(1) Level indicating devices of approved type may be used in lieu of sounding pipes for sounding tanks. Where a remote level indicating system is installed in lieu of sounding pipes, an emergency means (i.e. a manholes always accessible and checkable or a secondary means of sounding) is to be provided for checking of level in the event of failure of the system.
+(2) These devices are to be tested at the working condition on completion of the installation.
+(3) Glass gauges used for tanks carrying fuel oils, lubricating oils and other flammable oils are to comply with the requirements specified in Pt 8, Ch 2, 102. 3 (5) (B) and (C). 
+[Pt.5 Ch.6 203. 4]
+4. Sounding devices other than sounding pipes
+(1) Level indicating devices of approved type may be used in lieu of sounding pipes for sounding tanks. Where a remote level indicating system is installed in lieu of sounding pipes, an emergency means (i.e. a manholes always accessible and checkable or a secondary means of sounding) is to be provided for checking of level in the event of failure of the system.
+(2) These devices are to be tested at the working condition on completion of the installation.
+(3) Glass gauges used for tanks carrying fuel oils, lubricating oils and other flammable oils are to comply with the requirements specified in Pt 8, Ch 2, 102. 3 (5) (B) and (C). 
