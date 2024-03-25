@@ -84,7 +84,7 @@ def generate_response(messages):
         max_tokens=500)
     return result['choices'][0]['message']['content']
 
-st.image('Resize.jpg')
+# st.image('Resize.jpg')
 
 if 'generated' not in st.session_state:
     st.session_state['generated'] = []
